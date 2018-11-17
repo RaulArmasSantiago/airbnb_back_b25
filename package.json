@@ -1,0 +1,11 @@
+{
+  "name": "airbnb_b25_back",
+  "version": "1.0.0",
+  "description": "Clon de AIRBNB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raúl Armas Santiago",
+  "license": "ISC"
+}
